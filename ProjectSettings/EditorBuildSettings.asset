@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MPM-Scenes/Menu 3D try.unity
+    guid: dede216cef5e4d7478e32fda2e0766cc
+  - enabled: 1
+    path: Assets/MPM-Scenes/Mapa 2 - Bosque.unity
+    guid: c4f024fa78e10cb4d9f7d64d3f5892c7
+  - enabled: 1
+    path: Assets/MPM-Scenes/Mapa 3 - Cueva.unity
+    guid: 77f2e25ee3645084893041360cff409a
+  - enabled: 1
+    path: Assets/MPM-Scenes/Mapa 1.unity
+    guid: 4f21192254497004b8641a7c26d494d2
+  m_configObjects: {}
